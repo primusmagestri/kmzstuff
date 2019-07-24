@@ -212,7 +212,7 @@
         </Region>
         <color>7fffffff</color>
         <Icon>
-          <href>overlays/prediction00_000002.png</href>
+          <href>https://raw.githubusercontent.com/primusmagestri/kmzstuff/master/bravadoltefiles/overlays/prediction00_000002.png</href>
           <viewBoundScale>0.8</viewBoundScale>
         </Icon>
         <altitudeMode>clampToGround</altitudeMode>
